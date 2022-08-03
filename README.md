@@ -17,3 +17,4 @@ sandwich by " ``` " to make code block
 > use " > " to make block quote
 
 [<text>](<link>)
+[Name of folder](www...)
