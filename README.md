@@ -6,10 +6,12 @@
 **two astarisk sandwich**
 
 ---
-three hyphen
+three hyphen to create horizontal bar
 
-`code snippets`
+`use " ` " to make code snippets`
 
 ```
-code block
+sandwich by " ``` " to make code block
 ```
+
+> use " > " to make block quote
