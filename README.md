@@ -2,5 +2,9 @@
 ## two sharp
 ### three sharp
 
-* one astarisk
-** two astarisk
+*one astarisk sandwich*
+**two astarisk sandwich**
+
+---
+three hyphen
+---
