@@ -7,4 +7,9 @@
 
 ---
 three hyphen
----
+
+`code snippets`
+
+```
+code block
+```
