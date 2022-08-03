@@ -8,10 +8,12 @@
 ---
 three hyphen to create horizontal bar
 
-`sandwich single ` ` to make code snippets
+`sandwich single` ` to make code snippets
 
 ```
 sandwich by " ``` " to make code block
 ```
 
 > use " > " to make block quote
+
+[<text>](<link>)
